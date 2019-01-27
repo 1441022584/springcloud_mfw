@@ -25,6 +25,7 @@ import javax.annotation.Resource;
  * @since 1.0.0
  */
 @Controller
+
 public class UserController {
 
 
